@@ -1,4 +1,4 @@
-package com.bss.codebase.service.network.intercepter
+package com.codebase.mvp.service.network.intercepter
 
 import android.util.Log
 import okhttp3.*

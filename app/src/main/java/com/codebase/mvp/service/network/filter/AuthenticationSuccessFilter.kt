@@ -1,9 +1,9 @@
-package com.bss.codebase.service.network.filter
+package com.codebase.mvp.service.network.filter
 
-import com.bss.codebase.service.authentication.BaseAuthenticationManger
-import com.bss.codebase.service.authentication.model.LoginRequest
-import com.bss.codebase.service.authentication.model.LoginResponse
-import com.bss.codebase.service.authentication.model.LoginSocialRequest
+import com.codebase.mvp.service.authentication.BaseAuthenticationManger
+import com.codebase.mvp.service.authentication.model.LoginRequest
+import com.codebase.mvp.service.authentication.model.LoginResponse
+import com.codebase.mvp.service.authentication.model.LoginSocialRequest
 import rx.Observable
 import rx.schedulers.Schedulers
 

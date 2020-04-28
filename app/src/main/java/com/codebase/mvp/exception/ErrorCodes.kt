@@ -1,4 +1,4 @@
-package com.bss.codebase.exception
+package com.codebase.mvp.exception
 
 class ErrorCodes {
 

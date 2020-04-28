@@ -1,6 +1,6 @@
-package com.bss.codebase.models
+package com.codebase.mvp.models
 
-import com.bss.codebase.exception.ErrorCodes
+import com.codebase.mvp.exception.ErrorCodes
 
 class ServiceResultError {
     private var errorCode: Int = 0

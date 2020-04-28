@@ -1,4 +1,4 @@
-package com.bss.codebase.service.network.filter
+package com.codebase.mvp.service.network.filter
 
 import rx.Observable
 

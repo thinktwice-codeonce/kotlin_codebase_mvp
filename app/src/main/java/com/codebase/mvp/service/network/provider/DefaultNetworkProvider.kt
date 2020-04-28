@@ -1,10 +1,10 @@
-package com.bss.codebase.service.network.provider
+package com.codebase.mvp.service.network.provider
 
 import android.content.Context
-import com.bss.codebase.service.common.RestMessageResponse
-import com.bss.codebase.service.converter.ThreeTenGsonAdapter
-import com.bss.codebase.service.network.filter.*
-import com.bss.codebase.service.network.intercepter.HttpLoggingInterceptor
+import com.codebase.mvp.service.common.RestMessageResponse
+import com.codebase.mvp.service.converter.ThreeTenGsonAdapter
+import com.codebase.mvp.service.network.filter.*
+import com.codebase.mvp.service.network.intercepter.HttpLoggingInterceptor
 import com.franmontiel.persistentcookiejar.PersistentCookieJar
 import com.franmontiel.persistentcookiejar.cache.SetCookieCache
 import com.franmontiel.persistentcookiejar.persistence.SharedPrefsCookiePersistor

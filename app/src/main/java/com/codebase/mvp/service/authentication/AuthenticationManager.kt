@@ -1,8 +1,8 @@
-package com.bss.codebase.service.authentication
+package com.codebase.mvp.service.authentication
 
-import com.bss.codebase.service.authentication.model.LoginRequest
-import com.bss.codebase.service.authentication.model.LoginResponse
-import com.bss.codebase.service.authentication.model.LoginSocialRequest
+import com.codebase.mvp.service.authentication.model.LoginRequest
+import com.codebase.mvp.service.authentication.model.LoginResponse
+import com.codebase.mvp.service.authentication.model.LoginSocialRequest
 import rx.Observable
 
 interface AuthenticationManager<TUser : LoginResponse, TLoginRequest : LoginRequest,

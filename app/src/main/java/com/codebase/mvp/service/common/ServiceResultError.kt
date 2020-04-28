@@ -1,6 +1,6 @@
-package com.bss.codebase.service.common
+package com.codebase.mvp.service.common
 
-import com.bss.codebase.exception.ErrorCodes
+import com.codebase.mvp.exception.ErrorCodes
 
 class ServiceResultError {
 

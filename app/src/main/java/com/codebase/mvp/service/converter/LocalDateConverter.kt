@@ -1,4 +1,4 @@
-package com.bss.codebase.service.converter
+package com.codebase.mvp.service.converter
 
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonSerializer

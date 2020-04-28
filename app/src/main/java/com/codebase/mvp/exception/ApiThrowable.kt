@@ -1,6 +1,6 @@
-package com.bss.codebase.exception
+package com.codebase.mvp.exception
 
-import com.bss.codebase.models.ServiceResultError
+import com.codebase.mvp.models.ServiceResultError
 import java.util.*
 
 class ApiThrowable : Throwable{

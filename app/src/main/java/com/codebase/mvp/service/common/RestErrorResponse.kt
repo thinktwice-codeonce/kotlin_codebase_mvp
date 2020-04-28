@@ -1,4 +1,4 @@
-package com.bss.codebase.service.common
+package com.codebase.mvp.service.common
 
 class RestErrorResponse {
 

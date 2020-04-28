@@ -1,4 +1,4 @@
-package com.bss.codebase.service.schedule
+package com.codebase.mvp.service.schedule
 
 import rx.Observable
 import rx.Subscription

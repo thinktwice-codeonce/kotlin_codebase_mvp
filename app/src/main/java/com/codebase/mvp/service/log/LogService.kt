@@ -1,4 +1,4 @@
-package com.bss.codebase.service.log
+package com.codebase.mvp.service.log
 
 import android.content.Context
 import java.io.IOException

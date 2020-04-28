@@ -1,4 +1,4 @@
-package com.bss.codebase.service.authentication.model
+package com.codebase.mvp.service.authentication.model
 
 interface LoginRequest {
     fun getUsername(): String

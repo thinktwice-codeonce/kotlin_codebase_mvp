@@ -1,7 +1,7 @@
-package com.bss.codebase.infrastructure.module
+package com.codebase.mvp.infrastructure.module
 
-import com.bss.codebase.infrastructure.scope.ActivityScope
-import com.bss.codebase.models.LocalCiceroneHolder
+import com.codebase.mvp.infrastructure.scope.ActivityScope
+import com.codebase.mvp.models.LocalCiceroneHolder
 import dagger.Module
 import dagger.Provides
 

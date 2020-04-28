@@ -1,10 +1,10 @@
-package com.bss.codebase.service.network.filter
+package com.codebase.mvp.service.network.filter
 
-import com.bss.codebase.exception.ApiThrowable
-import com.bss.codebase.exception.ErrorCodes
-import com.bss.codebase.models.ServiceResultError
-import com.bss.codebase.service.common.MessageResponse
-import com.bss.codebase.service.common.RestMessageResponse
+import com.codebase.mvp.exception.ApiThrowable
+import com.codebase.mvp.exception.ErrorCodes
+import com.codebase.mvp.models.ServiceResultError
+import com.codebase.mvp.service.common.MessageResponse
+import com.codebase.mvp.service.common.RestMessageResponse
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import retrofit2.HttpException

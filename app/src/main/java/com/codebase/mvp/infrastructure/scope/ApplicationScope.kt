@@ -1,4 +1,4 @@
-package com.bss.codebase.infrastructure.scope
+package com.codebase.mvp.infrastructure.scope
 
 import javax.inject.Scope
 

@@ -1,4 +1,4 @@
-package com.bss.codebase.service.network.provider
+package com.codebase.mvp.service.network.provider
 
 import com.google.gson.Gson
 

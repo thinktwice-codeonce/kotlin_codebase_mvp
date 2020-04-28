@@ -1,4 +1,4 @@
-package com.bss.codebase.models
+package com.codebase.mvp.models
 
 import ru.terrakok.cicerone.Cicerone
 import ru.terrakok.cicerone.Router

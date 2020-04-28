@@ -1,9 +1,9 @@
-package com.bss.codebase.service.network.provider
+package com.codebase.mvp.service.network.provider
 
 import android.content.Context
 import android.net.ConnectivityManager
-import com.bss.codebase.service.network.filter.Filter
-import com.bss.codebase.service.network.intercepter.HttpLoggingInterceptor
+import com.codebase.mvp.service.network.filter.Filter
+import com.codebase.mvp.service.network.intercepter.HttpLoggingInterceptor
 import com.google.gson.Gson
 import rx.Observable
 import rx.schedulers.Schedulers

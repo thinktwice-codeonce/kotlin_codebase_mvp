@@ -1,4 +1,4 @@
-package com.bss.codebase.service.authentication
+package com.codebase.mvp.service.authentication
 
 class AuthenticationManagerConfiguration() {
 

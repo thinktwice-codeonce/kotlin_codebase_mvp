@@ -1,9 +1,9 @@
-package com.bss.codebase.service.authentication
+package com.codebase.mvp.service.authentication
 
-import com.bss.codebase.service.authentication.model.LoginRequest
-import com.bss.codebase.service.authentication.model.LoginResponse
-import com.bss.codebase.service.authentication.model.LoginSocialRequest
-import com.bss.codebase.service.network.filter.AuthenticationSuccessFilter
+import com.codebase.mvp.service.authentication.model.LoginRequest
+import com.codebase.mvp.service.authentication.model.LoginResponse
+import com.codebase.mvp.service.authentication.model.LoginSocialRequest
+import com.codebase.mvp.service.network.filter.AuthenticationSuccessFilter
 import com.orhanobut.hawk.Hawk
 import rx.Observable
 
